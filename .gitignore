@@ -1,2 +1,3 @@
 .idea
 projects/*/build
+projects/*/dist
